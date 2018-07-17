@@ -1,3 +1,4 @@
+var logging = require('./logging.js');
 const fs = require('fs');
 const libxml = require("libxmljs");
 const Validator = require('jsonschema').Validator;
